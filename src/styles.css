@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f9f9f9 }
+h1, h2, h3 { color:#4a6fa5 }
+form { padding:20px; background:white; max-width:600px; margin:24px auto; border-radius:6px }
+input, select, button { margin:8px; padding:8px; border-radius:4px; border:1px solid #bbb }
+table { border-collapse: collapse; width:100%; margin-top:12px; }
+td, th { border:1px solid #bbb; padding:6px; text-align:center }
+ul { margin:24px 0; }
+li { background:#fff; margin:8px 0; padding:10px; border-radius:4px; list-style:none; }
+.circle { border-radius:50%; }
